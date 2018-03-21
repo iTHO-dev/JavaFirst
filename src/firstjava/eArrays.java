@@ -14,7 +14,7 @@ public class eArrays {
 	
 	System.out.println("Der Inhalt von Position 4 = " +schrank[3]);
 	
-	schrank[3] = 88;
+	schrank[3] = 66;
 
 	System.out.println("Der Inhalt von Position 4 ist nun: " +schrank[3]);
 	
