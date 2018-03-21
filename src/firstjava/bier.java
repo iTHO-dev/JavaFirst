@@ -5,7 +5,7 @@
 package firstjava;
 import java.util.Random;
 /**
- * @author hannes
+ * @author hannesO
  *
  */
 
